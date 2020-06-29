@@ -3,3 +3,4 @@
 /git commit
 aaaa
 bbb
+git status
