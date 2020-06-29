@@ -4,3 +4,4 @@
 aaaa
 bbb
 git status
+git diff
