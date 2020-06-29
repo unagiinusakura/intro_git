@@ -1,2 +1,6 @@
 gitの練習をしています
 基本的なフローを学びます
+/git add
+/git commit
+aaaa
+bbb
